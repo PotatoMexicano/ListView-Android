@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="nome">Name</string>
+    <string name="idade">Age</string>
+    <string name="genero">Genre</string>
+    <string name="feminino">Female</string>
+    <string name="masculino">Male</string>
+    <string name="peso">Weight</string>
+    <string name="altura">Height</string>
+    <string name="enviar">Enter</string>
+    <string name="tempo">Time</string>
+    <string name="velocidade">Velocity</string>
+    <string name="minutos"> minutes</string>
+
+
+
+
+    <string-array name="spinner">
+        <item>Bicycle</item>
+        <item>Swimming</item>
+        <item>walking</item>
+        <item>Running</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="nome">nome</string>
+    <string name="idade">idade</string>
+    <string name="genero">Gênero</string>
+    <string name="feminino">feminino</string>
+    <string name="masculino">masculino</string>
+    <string name="peso">peso</string>
+    <string name="altura">altura</string>
+    <string name="enviar">enviar</string>
+    <string name="tempo">Tempo</string>
+    <string name="velocidade">Velocidade</string>
+    <string name="minutos"> minutos</string>
+
+    <string-array name="spinner">
+        <item>Bicicleta</item>
+        <item>Natação</item>
+        <item>Caminhada</item>
+        <item>Corrida</item>
+    </string-array>
+</resources>
